@@ -20,6 +20,12 @@ The cost savings of not purchasing new solar panels and steel supports, and not 
 
 The cost per watt for solar installation would go way down if these vertical Power Towers, already designed to resist high winds and snow loads, were a product that were on the market. Wind turbine blade sections and solar panels are lightweight to transport, and the carbon-storing recycled concrete can be added on site to save on transportation emissions and to enable the local community to help with installation as desired.
 
+## Building Batteries
+
+We'd like to explore building batteries...for use in buildings, of course. 
+
+It appears there might be some useful opportunities with both calcium and iron, two ingredients that are widely available and already within every concrete building. At least according to [this journal article](https://pubs.acs.org/doi/10.1021/acs.jchemed.8b00479), which has been viewed over 40,000 times since 2018. It clears up many misconceptions about battery chemistry that might still be impeding battery engineering efforts today in various places. Worth a read, we'll look into this further as we get time.
+
 ## PACE-PPA Co-Funding Concept
 
 Through PACE programs (available in 39 states), non-residential properties with at least one significant building can raise their net operating income over up to 25 years with the bulk of it coming in the first year, just by implementing energy upgrades resulting in savings for their utilities. Many property owners can even double their net operating income in the first year. 
