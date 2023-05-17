@@ -5,6 +5,9 @@ If the following work is of value to you, please consider supporting our work or
 
 Our goal is for our Core Contributors to each earn an equal share of 50% of the proceeds we receive from OpenEnergy products that get to market to get emissions reduced. Sustainability is not just for the planet, it has to be for people too.
 
+## Project Scope
+![TerraNexum - Business Flow Model - OpenEnergy](https://github.com/terranexum/OpenEnergy/assets/20586685/f19da2d2-a8ed-4ebc-a88f-1ed1f16949c7)
+
 ## A Solar Forest of Power Towers: Giving a Second Wind to Spent Solar Panels and Wind Turbine Blades
 
 There is a massive amount of waste every year from decommissioned wind turbine blades, and a massive amount of energy and financial expenditure just manufacturing, transporting, and putting up towers made of steel for various purposes.
