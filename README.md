@@ -1,11 +1,13 @@
 # OpenEnergy
-Plans for renewable energy technologies and co-location possibilities to increase the expansion of renewable energy and speed up our energy transition
+Plans for renewable energy technologies and co-location possibilities to increase the expansion of renewable energy and speed up our energy transition.
+
+If this is of value to you, please consider supporting our work through [Open Collective](https://opencollective.com/terranexum/projects/openenergy). 
 
 ## Solar Forest Concept - Smarter Solar through the Use of Wind
 
 There is a massive amount of waste every year from decommissioned wind turbine blades, and a massive amount of energy and financial expenditure just manufacturing, transporting, and putting up towers made of steel for various purposes.
 
-Vertical solar towers (trees) made of solar panels mounted on 20 foot sections of wind turbine blades - a solar forest that saves space while providing power with less waste, less emissions, and more profitability.
+Vertical power towers made of solar panels mounted on 20 foot sections of wind turbine blades ballasted with carbon-storing recycled concrete: these can create a solar forest that saves space while providing power with less waste, less emissions, and more profitability.
 
 ## PACE-PPA Co-Funding Concept
 
